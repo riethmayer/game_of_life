@@ -8,20 +8,16 @@ We looked at [Wikipedia:Conways_Game_of_Life](http://en.wikipedia.org/wiki/Conwa
 
 Requires `bundler`.
 
-    bundle install
-    
+bundle install
+
 ## Usage
 
 In order to use autotest, you can start the autotest environment in two different modes:
 
-Rspec autotests:
-
-    autotest
-    
 Cucumber and Rspec autotests:
 
-    AUTOFEATURE=true autotest
-    
+AUTOFEATURE=true autotest
+
 ## License
 
 Copyright (c) 2010 [uvg urbanvention UG](http://urbanvention.com)
