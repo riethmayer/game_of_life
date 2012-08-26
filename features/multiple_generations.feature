@@ -1,3 +1,4 @@
+@wip
 Feature: Evolving a grid over multiple generations
   In order to create a functioning rules engine
   As a programmer of Conway's Game of Life
@@ -11,7 +12,7 @@ Feature: Evolving a grid over multiple generations
       | . | . | . | . | . |
       | . | . | . | . | . |
     When the game evolves
-    Then the board should look like this    
+    Then the board should look like this
       | . | . | . | . | . |
       | . | . | x | . | . |
       | . | . | x | . | . |

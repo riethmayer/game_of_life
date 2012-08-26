@@ -1,3 +1,4 @@
+@wip
 Feature: Evolving a grid with some cells in it
   In order to create a functioning rules engine
   As a programmer of Conway's Game of Life

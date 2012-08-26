@@ -1,3 +1,4 @@
+@wip
 Feature: Evolving a living cell
   In order to create a functioning rules engine
   As a programmer implementing the game of life

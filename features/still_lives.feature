@@ -1,3 +1,5 @@
+@wip
+
 Feature: Evolving a still cell structure
   In order to create a functioning rules engine
   As a programmer implementing the game of life
